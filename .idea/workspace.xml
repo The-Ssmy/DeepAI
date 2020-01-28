@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f71e974-97f8-45bd-b34a-b43b8db9287f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UpheoiwarhvItHUUD3N6oygoXc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/手写数字体识别" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\acer\Desktop\DeepAI\手写数字体识别" />
+      <recent name="C:\Users\acer\Desktop\DeepAI\回归问题实战" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.3.5激活函数和GPU加速">
+    <configuration name="3.5激活函数和GPU加速" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DeepAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\acer\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.神经网络和全连接层" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.神经网络和全连接层/3.5激活函数和GPU加速.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="DeepAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\acer\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DeepAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\acer\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GAN和WGAN实战" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GAN和WGAN实战/gan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DeepAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\acer\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Auto-Enconder实战" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Auto-Enconder实战/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_transfer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DeepAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\acer\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/宝可梦精灵实战" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/宝可梦精灵实战/train_transfer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wgan-gp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DeepAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\acer\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GAN和WGAN实战" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GAN和WGAN实战/wgan-gp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.train_transfer" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.wgan-gp" />
+      <item itemvalue="Python.gan" />
+      <item itemvalue="Python.3.5激活函数和GPU加速" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.3.5激活函数和GPU加速" />
+        <item itemvalue="Python.gan" />
+        <item itemvalue="Python.wgan-gp" />
+        <item itemvalue="Python.train_transfer" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f71e974-97f8-45bd-b34a-b43b8db9287f" name="Default Changelist" comment="" />
+      <created>1576059541566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576059541566</updated>
+      <workItem from="1576059543306" duration="1580000" />
+      <workItem from="1576201439838" duration="59000" />
+      <workItem from="1576226410659" duration="585000" />
+      <workItem from="1576227352518" duration="4349000" />
+      <workItem from="1576316138027" duration="972000" />
+      <workItem from="1576317129694" duration="942000" />
+      <workItem from="1576318091889" duration="620000" />
+      <workItem from="1576318807780" duration="2289000" />
+      <workItem from="1576384582975" duration="3295000" />
+      <workItem from="1576484211413" duration="688000" />
+      <workItem from="1576557694779" duration="1197000" />
+      <workItem from="1576658785616" duration="2560000" />
+      <workItem from="1578209557173" duration="1661000" />
+      <workItem from="1578896460498" duration="27000" />
+      <workItem from="1578896747567" duration="232000" />
+      <workItem from="1578897000085" duration="48000" />
+      <workItem from="1578897063142" duration="16103000" />
+      <workItem from="1578970317417" duration="19212000" />
+      <workItem from="1579055323685" duration="23548000" />
+      <workItem from="1579139960833" duration="21332000" />
+      <workItem from="1579229416003" duration="24331000" />
+      <workItem from="1579315704473" duration="23836000" />
+      <workItem from="1579404546630" duration="16988000" />
+      <workItem from="1579517103917" duration="8517000" />
+      <workItem from="1579579161366" duration="16458000" />
+      <workItem from="1579664046579" duration="9676000" />
+      <workItem from="1579755936283" duration="13404000" />
+      <workItem from="1580054840281" duration="582000" />
+      <workItem from="1580104600347" duration="3061000" />
+      <workItem from="1580127216838" duration="2479000" />
+      <workItem from="1580192692862" duration="132000" />
+      <workItem from="1580192844740" duration="95000" />
+      <workItem from="1580193296246" duration="101000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="68" key="#Notifications" timestamp="1579229644078">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="68" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1579229644078" />
+    <state x="223" y="65" width="1089" height="709" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579149988601">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="65" width="1089" height="709" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1579149988601" />
+    <state x="446" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579617898459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="446" y="210" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1579617898459" />
+    <state width="1487" height="150" key="GridCell.Tab.0.bottom" timestamp="1580055254516">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1487" height="150" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580055254516" />
+    <state width="1487" height="150" key="GridCell.Tab.0.center" timestamp="1580055254516">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1487" height="150" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580055254516" />
+    <state width="1487" height="150" key="GridCell.Tab.0.left" timestamp="1580055254516">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1487" height="150" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580055254516" />
+    <state width="1487" height="150" key="GridCell.Tab.0.right" timestamp="1580055254516">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1487" height="150" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580055254516" />
+    <state width="1487" height="260" key="GridCell.Tab.1.bottom" timestamp="1578982555459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1487" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578982555459" />
+    <state width="1487" height="260" key="GridCell.Tab.1.center" timestamp="1578982555459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1487" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1578982555459" />
+    <state width="1487" height="260" key="GridCell.Tab.1.left" timestamp="1578982555459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1487" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1578982555459" />
+    <state width="1487" height="260" key="GridCell.Tab.1.right" timestamp="1578982555459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1487" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578982555459" />
+    <state x="272" y="12" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1578931028788">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="12" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1578931028788" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1579445504520">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1579445504520" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DeepAI$5_6.coverage" NAME="5.6深度残差网络 Coverage Results" MODIFIED="1579276551800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.卷积神经网络CNN" />
+    <SUITE FILE_PATH="coverage/DeepAI$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1579190042106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MINIST测试实战" />
+    <SUITE FILE_PATH="coverage/DeepAI$train_transfer.coverage" NAME="train_transfer Coverage Results" MODIFIED="1579769519796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宝可梦精灵实战" />
+    <SUITE FILE_PATH="coverage/DeepAI$2_6.coverage" NAME="2.6链式法则 Coverage Results" MODIFIED="1579149504575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.随机梯度下降" />
+    <SUITE FILE_PATH="coverage/DeepAI$1_2tensor.coverage" NAME="1.2创建tensor Coverage Results" MODIFIED="1578988645742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.PyTorch初见" />
+    <SUITE FILE_PATH="coverage/DeepAI$resnet.coverage" NAME="resnet Coverage Results" MODIFIED="1579346066264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CIFAR10与ResNet实战" />
+    <SUITE FILE_PATH="coverage/DeepAI$1_3.coverage" NAME="1.3索引与切片 Coverage Results" MODIFIED="1578990835519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.PyTorch初见" />
+    <SUITE FILE_PATH="coverage/DeepAI$6_1.coverage" NAME="6.1时间序列表示方式 Coverage Results" MODIFIED="1579362444213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.循环神经网络" />
+    <SUITE FILE_PATH="coverage/DeepAI$5_3.coverage" NAME="5.3池化层与采样 Coverage Results" MODIFIED="1579269017382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.卷积神经网络CNN" />
+    <SUITE FILE_PATH="coverage/DeepAI$gan.coverage" NAME="gan Coverage Results" MODIFIED="1580055186313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GAN和WGAN实战" />
+    <SUITE FILE_PATH="coverage/DeepAI$1_5Broadcasting.coverage" NAME="1.5Broadcasting Coverage Results" MODIFIED="1579014062125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.PyTorch初见" />
+    <SUITE FILE_PATH="coverage/DeepAI$gd.coverage" NAME="gd Coverage Results" MODIFIED="1579078769081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/回归问题实战" />
+    <SUITE FILE_PATH="coverage/DeepAI$.coverage" NAME="定时关机 Coverage Results" MODIFIED="1578229021579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/DeepAI$2_4Loss.coverage" NAME="2.4Loss及其梯度 Coverage Results" MODIFIED="1579149694518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.随机梯度下降" />
+    <SUITE FILE_PATH="coverage/DeepAI$1_6.coverage" NAME="1.6合并与分割 Coverage Results" MODIFIED="1579016496870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.PyTorch初见" />
+    <SUITE FILE_PATH="coverage/DeepAI$3_2.coverage" NAME="3.2交叉熵 Coverage Results" MODIFIED="1579186060874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.神经网络和全连接层" />
+    <SUITE FILE_PATH="coverage/DeepAI$wgan_gp.coverage" NAME="wgan-gp Coverage Results" MODIFIED="1579796315871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GAN和WGAN实战" />
+    <SUITE FILE_PATH="coverage/DeepAI$1_9.coverage" NAME="1.9高阶操作 Coverage Results" MODIFIED="1579074213471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.PyTorch初见" />
+    <SUITE FILE_PATH="coverage/DeepAI$seris.coverage" NAME="seris Coverage Results" MODIFIED="1579446753663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/时间序列预测" />
+    <SUITE FILE_PATH="coverage/DeepAI$6_3RNN_Layer.coverage" NAME="6.3RNN Layer的使用 Coverage Results" MODIFIED="1579427035106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.循环神经网络" />
+    <SUITE FILE_PATH="coverage/DeepAI$train_scratch.coverage" NAME="train_scratch Coverage Results" MODIFIED="1579617672815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宝可梦精灵实战" />
+    <SUITE FILE_PATH="coverage/DeepAI$1_1.coverage" NAME="1.1初见 Coverage Results" MODIFIED="1578982491992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.PyTorch初见" />
+    <SUITE FILE_PATH="coverage/DeepAI$4_5Early_Stop__Dropout.coverage" NAME="4.5Early Stop, Dropout Coverage Results" MODIFIED="1579246050947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.过拟合" />
+    <SUITE FILE_PATH="coverage/DeepAI$5_7nn_Module.coverage" NAME="5.7nn.Module Coverage Results" MODIFIED="1579276768703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.卷积神经网络CNN" />
+    <SUITE FILE_PATH="coverage/DeepAI$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1579323744856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MINIST测试实战" />
+    <SUITE FILE_PATH="coverage/DeepAI$5_4Batch_Norm.coverage" NAME="5.4Batch Norm Coverage Results" MODIFIED="1579271729252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.卷积神经网络CNN" />
+    <SUITE FILE_PATH="coverage/DeepAI$3_5GPU.coverage" NAME="3.5激活函数和GPU加速 Coverage Results" MODIFIED="1580055254485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.神经网络和全连接层" />
+    <SUITE FILE_PATH="coverage/DeepAI$1_4.coverage" NAME="1.4维度变换 Coverage Results" MODIFIED="1578994157649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.PyTorch初见" />
+    <SUITE FILE_PATH="coverage/DeepAI$test.coverage" NAME="test Coverage Results" MODIFIED="1576658809640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/DeepAI$lstm.coverage" NAME="lstm Coverage Results" MODIFIED="1579534026794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/情感分类问题实战" />
+    <SUITE FILE_PATH="coverage/DeepAI$pokemon.coverage" NAME="pokemon Coverage Results" MODIFIED="1579602649234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宝可梦精灵实战" />
+    <SUITE FILE_PATH="coverage/DeepAI$main.coverage" NAME="main Coverage Results" MODIFIED="1579699135231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Auto-Enconder实战" />
+    <SUITE FILE_PATH="coverage/DeepAI$1_7.coverage" NAME="1.7数学运算 Coverage Results" MODIFIED="1579069504495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.PyTorch初见" />
+    <SUITE FILE_PATH="coverage/DeepAI$2_5.coverage" NAME="2.5感知机的梯度推导 Coverage Results" MODIFIED="1579104181820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.随机梯度下降" />
+    <SUITE FILE_PATH="coverage/DeepAI$4_1.coverage" NAME="4.1过拟合和欠拟合 Coverage Results" MODIFIED="1579191837135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.过拟合" />
+    <SUITE FILE_PATH="coverage/DeepAI$5_8.coverage" NAME="5.8数据增强 Coverage Results" MODIFIED="1579321973997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.卷积神经网络CNN" />
+    <SUITE FILE_PATH="coverage/DeepAI$5_2.coverage" NAME="5.2卷积神经网络 Coverage Results" MODIFIED="1579260439708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5.卷积神经网络CNN" />
+    <SUITE FILE_PATH="coverage/DeepAI$1_8.coverage" NAME="1.8统计属性 Coverage Results" MODIFIED="1579072744701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.PyTorch初见" />
+    <SUITE FILE_PATH="coverage/DeepAI$minist_train.coverage" NAME="minist_train Coverage Results" MODIFIED="1578931650351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/手写数字体识别" />
+    <SUITE FILE_PATH="coverage/DeepAI$6_5LSTM.coverage" NAME="6.5LSTM网络 Coverage Results" MODIFIED="1579531709609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6.循环神经网络" />
+    <SUITE FILE_PATH="coverage/DeepAI$2_3.coverage" NAME="2.3激活函数及其梯度 Coverage Results" MODIFIED="1579095293945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.随机梯度下降" />
+  </component>
+</project>
