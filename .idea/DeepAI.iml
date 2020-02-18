@@ -4,8 +4,18 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="深度学习与TensorFlow入门实战-源码和PPT" />
+    <orderEntry type="module" module-name="python" />
+    <orderEntry type="module" module-name="DeepPython" />
+    <orderEntry type="module" module-name="深度学习与TensorFlow入门实战-源码和PPT" />
+    <orderEntry type="module" module-name="TensorFlow入门实战" />
+  </component>
+  <component name="PackageRequirementsSettings">
+    <option name="requirementsPath" value="" />
   </component>
   <component name="PyDocumentationSettings">
+    <option name="format" value="REST" />
+    <option name="myDocStringFormat" value="reStructuredText" />
     <option name="renderExternalDocumentation" value="true" />
   </component>
 </module>

@@ -121,7 +121,7 @@ def main():
 
     viz = visdom.Visdom()
 
-    db = Pokemon(r'C:\Users\acer\Desktop\DeepAI\宝可梦精灵实战\pokeman', 224, 'train')
+    db = Pokemon(r'C:\Users\acer\Desktop\DeepAI\宝可梦精灵实战\pokemon', 224, 'train')
 
     x, y = next(iter(db))
     print(x.shape, y.shape)

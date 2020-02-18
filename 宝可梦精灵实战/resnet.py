@@ -72,6 +72,7 @@ class ResNet18(nn.Module):
 
     def forward(self, x):
         """
+
         :param x:
         :return:
         """

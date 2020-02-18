@@ -1,22 +1,26 @@
-import torch
-import torchvision
-from torch import nn, optim
-from torchvision import datasets, transforms
-from torch.utils.data import DataLoader
+def main(**kwargs):
+    return kwargs
 
-a = torch.tensor([1., 2., 3.])
-print(a)
-class ResNet(nn.Module):
+x = main(a = 1, b = 2, c = 3)
+print(x)
 
-    def __init__(self):
-        super(ResNet, self).__init__()
-        self.net = nn.Sequential(
-            nn.Conv2d(),
-            nn.ReLU(),
-            
-        )
+import tensorflow as tf
+from tensorflow import keras
+
+model = keras.models.Sequential()
+model.add(keras.layers.Flatten(input_shape=[28, 28]))
+for _ in range(20):
+    model.add(keras.layers.Dense(100, activation="relu"))
+model.add(keras.layers.Dense(10, activation="softmax"))
 
 
-    def forward(self, x):
-        pass
+
+model.compile(loss="sparse_categorical_crossentropy",
+              optimizer="sgd",
+              metrics=["accuracy"])
+
+
+
+
+
 

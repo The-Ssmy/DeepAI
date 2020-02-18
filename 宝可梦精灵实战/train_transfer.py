@@ -14,7 +14,7 @@ batchsz = 32
 lr = 1e-3
 epochs = 10
 
-device = torch.device('cuda')
+device = torch.device("cuda")
 torch.manual_seed(1234)
 
 train_db = Pokemon(r'C:\Users\acer\Desktop\DeepAI\宝可梦精灵实战\pokeman', 224, mode='train')

@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DeepAI.iml" filepath="$PROJECT_DIR$/.idea/DeepAI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DeepPython/.idea/DeepPython.iml" filepath="$PROJECT_DIR$/../DeepPython/.idea/DeepPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TensorFlow入门实战/.idea/TensorFlow入门实战.iml" filepath="$PROJECT_DIR$/../TensorFlow入门实战/.idea/TensorFlow入门实战.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DeepPython/.idea/python.iml" filepath="$PROJECT_DIR$/../DeepPython/.idea/python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TensorFlow入门实战/.idea/深度学习与TensorFlow入门实战-源码和PPT.iml" filepath="$PROJECT_DIR$/../TensorFlow入门实战/.idea/深度学习与TensorFlow入门实战-源码和PPT.iml" />
     </modules>
   </component>
 </project>
