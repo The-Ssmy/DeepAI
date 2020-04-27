@@ -1,6 +1,6 @@
 import torch
 from torch import optim, nn
-import visdom
+# import visdom
 import torchvision
 from torch.utils.data import DataLoader
 
@@ -17,15 +17,15 @@ epochs = 10
 device = torch.device("cuda")
 torch.manual_seed(1234)
 
-train_db = Pokemon(r'C:\Users\acer\Desktop\DeepAI\宝可梦精灵实战\pokeman', 224, mode='train')
-val_db = Pokemon(r'C:\Users\acer\Desktop\DeepAI\宝可梦精灵实战\pokeman', 224, mode='val')
-test_db = Pokemon(r'C:\Users\acer\Desktop\DeepAI\宝可梦精灵实战\pokeman', 224, mode='test')
+train_db = Pokemon(r'C:\Users\acer\Desktop\DeepAI\宝可梦精灵实战\pokemon', 224, mode='train')
+val_db = Pokemon(r'C:\Users\acer\Desktop\DeepAI\宝可梦精灵实战\pokemon', 224, mode='val')
+test_db = Pokemon(r'C:\Users\acer\Desktop\DeepAI\宝可梦精灵实战\pokemon', 224, mode='test')
 train_loader = DataLoader(train_db, batch_size=batchsz, shuffle=True,
                           num_workers=4)
 val_loader = DataLoader(val_db, batch_size=batchsz, num_workers=2)
 test_loader = DataLoader(test_db, batch_size=batchsz, num_workers=2)
 
-viz = visdom.Visdom()
+# viz = visdom.Visdom()
 
 
 def evalute(model, loader):
@@ -59,8 +59,8 @@ def main():
 
     best_acc, best_epoch = 0, 0
     global_step = 0
-    viz.line([0], [-1], win='loss', opts=dict(title='loss'))
-    viz.line([0], [-1], win='val_acc', opts=dict(title='val_acc'))
+    # viz.line([0], [-1], win='loss', opts=dict(title='loss'))
+    # viz.line([0], [-1], win='val_acc', opts=dict(title='val_acc'))
     for epoch in range(epochs):
 
         for step, (x, y) in enumerate(train_loader):
@@ -75,7 +75,7 @@ def main():
             loss.backward()
             optimizer.step()
 
-            viz.line([loss.item()], [global_step], win='loss', update='append')
+            # viz.line([loss.item()], [global_step], win='loss', update='append')
             global_step += 1
 
         if epoch % 1 == 0:
@@ -87,7 +87,7 @@ def main():
 
                 torch.save(model.state_dict(), 'best.mdl')
 
-                viz.line([val_acc], [global_step], win='val_acc', update='append')
+                # viz.line([val_acc], [global_step], win='val_acc', update='append')
 
     print('best acc:', best_acc, 'best epoch:', best_epoch)
 
@@ -98,10 +98,21 @@ def main():
     print('test acc:', test_acc)
 
 
+
 if __name__ == '__main__':
     main()
 
 
 
 
+"""
+torch.save(net.state_dict(),path):
+功能：保存训练完的网络的各层参数（即weights和bias)
+其中：net.state_dict()获取各层参数，path是文件存放路径(通常保存文件格式为.pt或.pth)
 
+ 
+
+net2.load_state_dict(torch.load(path)):
+功能：加载保存到path中的各层参数到神经网络
+注意：不可以直接为torch.load_state_dict(path)，此函数不能直接接收字符串类型参数
+"""

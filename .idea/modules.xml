@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AsyCra/.idea/AsyCra.iml" filepath="$PROJECT_DIR$/../AsyCra/.idea/AsyCra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ChinaAI/.idea/ChinaAI.iml" filepath="$PROJECT_DIR$/../ChinaAI/.idea/ChinaAI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DataTest/.idea/DataTest.iml" filepath="$PROJECT_DIR$/../DataTest/.idea/DataTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DeepAI.iml" filepath="$PROJECT_DIR$/.idea/DeepAI.iml" />
       <module fileurl="file://$PROJECT_DIR$/../DeepPython/.idea/DeepPython.iml" filepath="$PROJECT_DIR$/../DeepPython/.idea/DeepPython.iml" />
       <module fileurl="file://$PROJECT_DIR$/../TensorFlow入门实战/.idea/TensorFlow入门实战.iml" filepath="$PROJECT_DIR$/../TensorFlow入门实战/.idea/TensorFlow入门实战.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WebDjango/.idea/WebDjango.iml" filepath="$PROJECT_DIR$/../WebDjango/.idea/WebDjango.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../huyaPro/.idea/huyaPro.iml" filepath="$PROJECT_DIR$/../huyaPro/.idea/huyaPro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myCrawler/.idea/myCrawler.iml" filepath="$PROJECT_DIR$/../myCrawler/.idea/myCrawler.iml" />
       <module fileurl="file://$PROJECT_DIR$/../DeepPython/.idea/python.iml" filepath="$PROJECT_DIR$/../DeepPython/.idea/python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wangyi/.idea/wangyi.iml" filepath="$PROJECT_DIR$/../wangyi/.idea/wangyi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web框架/.idea/web框架.iml" filepath="$PROJECT_DIR$/../web框架/.idea/web框架.iml" />
       <module fileurl="file://$PROJECT_DIR$/../TensorFlow入门实战/.idea/深度学习与TensorFlow入门实战-源码和PPT.iml" filepath="$PROJECT_DIR$/../TensorFlow入门实战/.idea/深度学习与TensorFlow入门实战-源码和PPT.iml" />
     </modules>
   </component>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/宝可梦精灵实战" isTestSource="false" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="深度学习与TensorFlow入门实战-源码和PPT" />
@@ -9,6 +11,14 @@
     <orderEntry type="module" module-name="DeepPython" />
     <orderEntry type="module" module-name="深度学习与TensorFlow入门实战-源码和PPT" />
     <orderEntry type="module" module-name="TensorFlow入门实战" />
+    <orderEntry type="module" module-name="myCrawler" />
+    <orderEntry type="module" module-name="WebDjango" />
+    <orderEntry type="module" module-name="DataTest" />
+    <orderEntry type="module" module-name="huyaPro" />
+    <orderEntry type="module" module-name="wangyi" />
+    <orderEntry type="module" module-name="AsyCra" />
+    <orderEntry type="module" module-name="web框架" />
+    <orderEntry type="module" module-name="ChinaAI" />
   </component>
   <component name="PackageRequirementsSettings">
     <option name="requirementsPath" value="" />
@@ -16,6 +26,5 @@
   <component name="PyDocumentationSettings">
     <option name="format" value="REST" />
     <option name="myDocStringFormat" value="reStructuredText" />
-    <option name="renderExternalDocumentation" value="true" />
   </component>
 </module>
