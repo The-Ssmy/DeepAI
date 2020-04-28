@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f71e974-97f8-45bd-b34a-b43b8db9287f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/DeepAI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DeepAI.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.生成对抗网络GAN/9.3纳什均衡.py" beforeDir="false" afterPath="$PROJECT_DIR$/9.生成对抗网络GAN/9.3纳什均衡.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/宝可梦精灵实战/best.mdl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/宝可梦精灵实战/pokemon/images.csv" beforeDir="false" afterPath="$PROJECT_DIR$/宝可梦精灵实战/pokemon/images.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/宝可梦精灵实战/train_transfer.py" beforeDir="false" afterPath="$PROJECT_DIR$/宝可梦精灵实战/train_transfer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/宝可梦精灵实战/pokemon_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/宝可梦精灵实战/pokemon_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,29 +75,7 @@
       <recent name="C:\Users\acer\Desktop\DeepAI\回归问题实战" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.train_transfer">
-    <configuration name="1.词向量" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ChinaAI" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ChinaAI/3.自然语言处理" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ChinaAI/3.自然语言处理/1.词向量.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.pokemon_test">
     <configuration name="1.词向量" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ChinaAI" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,10 +164,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pokemon_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DeepAI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/宝可梦精灵实战" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/宝可梦精灵实战/pokemon_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="train_transfer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DeepAI" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/宝可梦精灵实战" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -238,14 +236,15 @@
       <item itemvalue="Python.ResNet" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.train_transfer" />
+      <item itemvalue="Python.pokemon_test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pokemon_test" />
         <item itemvalue="Python.train_transfer" />
         <item itemvalue="Python.utils" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.ResNet" />
-        <item itemvalue="Python.1.词向量" />
       </list>
     </recent_temporary>
   </component>
@@ -421,7 +420,7 @@
       <workItem from="1587694445959" duration="17703000" />
       <workItem from="1587786133740" duration="18258000" />
       <workItem from="1587865873075" duration="29681000" />
-      <workItem from="1587954233783" duration="12280000" />
+      <workItem from="1587954233783" duration="30672000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;test3&quot;">
       <created>1582044936527</created>
@@ -430,7 +429,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582044936527</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;test3&quot;">
+      <created>1587977971201</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587977971201</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;test3&quot;">
+      <created>1587977979938</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587977979938</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -453,10 +466,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="485" y="255" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1536.824@0.0.1536.824" timestamp="1582044305012" />
-    <state x="223" y="65" width="1089" height="709" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587977414012">
+    <state x="223" y="65" width="1089" height="709" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587986477779">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="65" width="1089" height="709" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1587977414012" />
+    <state x="223" y="65" width="1089" height="709" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1587986477779" />
     <state x="446" y="210" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585988114031">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -465,10 +478,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="155" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584545746915" />
-    <state x="398" y="0" key="CommitChangelistDialog2" timestamp="1582044924371">
+    <state x="398" y="0" key="CommitChangelistDialog2" timestamp="1587977978716">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="398" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582044924371" />
+    <state x="398" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1587977978716" />
     <state x="207" y="125" key="DiffContextDialog" timestamp="1581600736969">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -477,22 +490,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="165" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583404091510" />
-    <state width="1487" height="145" key="GridCell.Tab.0.bottom" timestamp="1587977584425">
+    <state width="1487" height="158" key="GridCell.Tab.0.bottom" timestamp="1587999748478">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1487" height="145" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587977584425" />
-    <state width="1487" height="145" key="GridCell.Tab.0.center" timestamp="1587977584424">
+    <state width="1487" height="158" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587999748478" />
+    <state width="1487" height="158" key="GridCell.Tab.0.center" timestamp="1587999748478">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1487" height="145" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587977584424" />
-    <state width="1487" height="145" key="GridCell.Tab.0.left" timestamp="1587977584424">
+    <state width="1487" height="158" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587999748478" />
+    <state width="1487" height="158" key="GridCell.Tab.0.left" timestamp="1587999748478">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1487" height="145" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587977584424" />
-    <state width="1487" height="145" key="GridCell.Tab.0.right" timestamp="1587977584424">
+    <state width="1487" height="158" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587999748478" />
+    <state width="1487" height="158" key="GridCell.Tab.0.right" timestamp="1587999748478">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1487" height="145" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587977584424" />
+    <state width="1487" height="158" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587999748478" />
     <state width="1487" height="260" key="GridCell.Tab.1.bottom" timestamp="1585574958480">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -586,6 +599,7 @@
     <SUITE FILE_PATH="coverage/DeepAI$test9.coverage" NAME="test9 Coverage Results" MODIFIED="1582096283074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../DeepPython" />
     <SUITE FILE_PATH="coverage/DeepAI$1_4.coverage" NAME="1.4维度变换 Coverage Results" MODIFIED="1578994157649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.PyTorch初见" />
     <SUITE FILE_PATH="coverage/DeepAI$client__1_.coverage" NAME="client (1) Coverage Results" MODIFIED="1582689042036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../DeepPython/网络编程/UDP编程" />
+    <SUITE FILE_PATH="coverage/DeepAI$pokemon_test.coverage" NAME="pokemon_test Coverage Results" MODIFIED="1587999748470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宝可梦精灵实战" />
     <SUITE FILE_PATH="coverage/DeepAI$pokemon.coverage" NAME="pokemon Coverage Results" MODIFIED="1579602649234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/宝可梦精灵实战" />
     <SUITE FILE_PATH="coverage/DeepAI$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1581663465293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../DeepPython" />
     <SUITE FILE_PATH="coverage/DeepAI$test10.coverage" NAME="test10 Coverage Results" MODIFIED="1582096369055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../DeepPython" />
