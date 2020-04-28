@@ -6,10 +6,11 @@ from torchvision.models import resnet18
 from torch import optim, nn
 import matplotlib.pyplot as plt
 import numpy as np
+from matplotlib.font_manager import FontProperties
 
 
 if __name__ == '__main__':
-
+    font = FontProperties(fname=r"c:\windows\fonts\simsun.ttc", size=15)
 
     batchsz = 6
     # device = torch.device("cuda")
@@ -20,7 +21,7 @@ if __name__ == '__main__':
                           )
     criteon = nn.CrossEntropyLoss()
 
-
+    d = {0: "妙蛙种子", 1: "喷火龙", 2: "超梦", 3: "皮卡丘", 4: "杰尼龟"}
     test_db = Pokemon(r'C:\Users\acer\Desktop\DeepAI\宝可梦精灵实战\pokemon', 224, mode='test')
     test_loader = DataLoader(test_db, batch_size=batchsz, num_workers=2)
     model.load_state_dict(torch.load('best.mdl'))
@@ -33,13 +34,15 @@ if __name__ == '__main__':
                 pred = logits.argmax(dim=1)
 
                 print(pred)
-                plt.subplot(2,3,i+1)
+                ax = plt.subplot(2,3,i+1)
+                index = pred[i]
+                ax.set_title(d[int(index)], fontproperties=font)
                 plt.imshow(x[i].permute(1, 2, 0))
-                plt.suptitle("predict value is {}".format(pred))
+                # plt.suptitle("predict value is {}".format(pred), fontproperties=font)
             plt.show()
 
 
-d = {0:"妙蛙种子", 1:"喷火龙", 2:"超梦", 3:"皮卡丘", 4:"杰尼龟"}
+
 
 
 
